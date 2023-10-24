@@ -13,7 +13,8 @@ body {
     width: 100%;
     /* max-width: 960px; */
     margin: 0 auto;
-    font-family: Times, Times New Roman, Georgia, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(154, 207, 241);
 }
 
 /* Make the nav take up the whole body width, and give it some top and bottom margin space */
